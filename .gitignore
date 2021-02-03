@@ -1,0 +1,10 @@
+.DS_Store
+.vagrant
+*.swp
+
+.serverless
+
+_site
+.jekyll-cache
+
+.idea/
