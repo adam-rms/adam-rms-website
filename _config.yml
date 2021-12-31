@@ -2,8 +2,8 @@
 title: AdamRMS
 email: studios@jbithell.com
 description:  Rental Management System
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://adam-rms.com" # the base hostname & protocol for your site
+baseurl: "/adam-rms-website/" # the subpath of your site, e.g. /blog/
+url: "https://adam-rms.github.io/adam-rms-website/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
